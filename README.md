@@ -1,6 +1,6 @@
 # Canny-Fishbowl
 
-##Context: 
+## Context: 
 IoT, where real-world things are built into intelligent things
 that are controlled virtually. In order to provide us control over the
 things around us and to keep us updated on their status, the IoT
@@ -10,7 +10,7 @@ things. One such thing is an aquarium. With the help of IoT, aquar-
 iums have developed a lot. One of their few functionalities is being
 monitored by the user remotely.
 
-##Objectives: 
+## Objectives: 
 The main objective of the project is to build an IoT
 based smart aquarium along with a web application and a mobile
 application where the aquarium can be monitored remotely. The web
@@ -19,7 +19,7 @@ of the monitored aquarium and will have options like feed, pump, etc.
 The readings are taken from the sensors and the options provided are
 actuators.
 
-##Methods: 
+## Methods: 
 We developed a model in which sensor readings are trans-
 mitted from an Arduino to an MQTT broker, and then used those
 readings to create an interactive web and mobile application.
@@ -28,7 +28,7 @@ the sensors and sending it to an MQTT broker. The data is then dis-
 played on a custom web and mobile app that we developed, allowing
 users to view the data in real time and interact with the actuators.
 
-##Conclusions: 
+## Conclusions: 
 ThedevelopmentofourIoT-basedsmartaquariumhas
 demonstrated the potential for the Internet of Things to improve the
 lives of aquarium owners and the health of their aquatic pets. The sys-
